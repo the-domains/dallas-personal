@@ -1,0 +1,14 @@
+layout_spectrum: 0.7836668426170945
+typography_spectrum: 0.5497063810471445
+color:
+  brandStrength: 0.26829999359324574
+  lightness: 0.5152865499258041
+  saturation: 0.46489264257252216
+  rhythmicContrast: 0.09992074081674218
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: Dallas Personal
