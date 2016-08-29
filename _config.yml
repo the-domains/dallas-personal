@@ -1,4 +1,3 @@
-layout_spectrum: 0.7836668426170945
 typography_spectrum: 0.5497063810471445
 color:
   brandStrength: 0.26829999359324574
@@ -11,4 +10,9 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
+layout_spectrum: 0.7836668426170945
+author:
+  name: Dallas Watt
+  email: dallas@dallaswatt.com.au
+  url: www.dallaswatt.com.au
 name: Dallas Personal
